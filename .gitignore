@@ -1,3 +1,6 @@
 #files to be ignored
+*.[oa]
+*~
+*.sy
 *.orig
 index_*_12580.html
